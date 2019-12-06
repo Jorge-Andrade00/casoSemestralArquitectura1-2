@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:17811/Tp2WebServices/Servicios?wsdl" uri="src/conf/xml-resources/web-service-references/Servicios_1/wsdl/localhost_17811/Tp2WebServices/Servicios.wsdl"/>
+    <system systemId="http://localhost:17811/Tp2WebServices/Servicios?xsd=1" uri="src/conf/xml-resources/web-service-references/Servicios_1/wsdl/localhost_17811/Tp2WebServices/Servicios.xsd_1.xsd"/>
+    <system systemId="http://localhost:17811/CCO_WEB_SERVICES/Servicios?wsdl" uri="src/conf/xml-resources/web-service-references/Servicios/wsdl/localhost_17811/CCO_WEB_SERVICES/Servicios.wsdl"/>
+    <system systemId="http://localhost:17811/CCO_WEB_SERVICES/Servicios?xsd=1" uri="src/conf/xml-resources/web-service-references/Servicios/wsdl/localhost_17811/CCO_WEB_SERVICES/Servicios.xsd_1.xsd"/>
+</catalog>
